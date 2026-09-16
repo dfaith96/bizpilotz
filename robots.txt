@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bizpilotz.it.com/sitemap.xml
+Sitemap: https://bizpilotz.space/sitemap.xml
